@@ -7,4 +7,3 @@ echo "$file"
 fi
 done > executable.txt
 echo "FiNISHED."
-
